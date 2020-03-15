@@ -3,7 +3,7 @@
 
 ## About
 
-[Academic Project] - A mock SPA (single page application) site for streaming videos. Demonstrating proficiency in React, React-Router, Node, Express, API's as well as other front-end essentials. This project was completed in three weeks. Each sprint in this folder is the culmination of a weeks worth of work finally culminating in the final product on sprint-three.
+[Academic Project] - A mock SPA (single page application) site for streaming videos. Demonstrating proficiency in React, React-Router, Node, Express, API's as well as other front-end essentials. This project was completed in three weeks. Each sprint in this folder is the culmination of a weeks worth of work, sprint-three folder has the final version of the project.
 
 ## Goals and Requirements
 
