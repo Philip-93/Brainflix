@@ -1,5 +1,5 @@
 <p align="center
-"><img src="Images/Logo-brainflix.png" align="center"></p>
+"><img src="Images/Logo-brainflix.svg" align="center"></p>
 
 ## About
 
