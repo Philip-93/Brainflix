@@ -26,20 +26,28 @@ My goal was to build a full stack single page application from the ground up. To
 
 ### Setup
 
-- Navigate to the client folder in your terminal and install npm like this:
+ **1.** Navigate to the client folder in your terminal and install npm like this:
 
 ```
 $ npm install
 ```
 
-- Navigate to the server folder in your terminal and install npm like this:
+ **2.** Navigate to the server folder in your terminal and install npm like this:
 
 ```
 $ npm install
 ```
 
-- Make sure to install npm in both the client and server folder\*
+*Make sure to install npm in both the client and server folder*
 
-![screen](https://github.com/Philip-93/philip-bertogg-bandsite/blob/master/Images/Desktop-screenshot.png)
+ **3.** While in your server folder run the following:
 
-<h6 align="Center">*Clone github repo and open in browser to see responsiveness across mobile, tablet and desktop settings*</h6>
+```
+$npm run dev
+```
+
+
+![screen](https://github.com/Philip-93/philip-bertogg-brainflix/blob/master/Images/Desktop.png)
+
+<h6 align="Center">*Open project and resize browser to see responsiveness across mobile, tablet and desktop settings*</h6>
+
