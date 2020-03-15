@@ -38,7 +38,7 @@ $ npm install
 $ npm install
 ```
 
-*Make sure to install npm in both the client and server folder*
+*__Make sure to install npm in both the client and server folder__*
 
  **3.** While in your server folder run the following:
 
